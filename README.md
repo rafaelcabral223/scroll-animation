@@ -10,4 +10,4 @@
 
 This application consist in a content scroll animation. While the user scrolling the page, the new content starts to appear on the screen with an animation.
 
-ALGUMA OUTRA IMAGEM OU GIF
+![2023-01-26-19-26-22](https://user-images.githubusercontent.com/72042885/214965385-c5ce1f0c-4f25-47d8-91f2-17b90af08ec1.gif)

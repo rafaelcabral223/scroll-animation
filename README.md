@@ -6,7 +6,7 @@
 | --------------------- | ------------------------------- |
 | :sparkles: Nome       | **Scroll Animation**            |
 | :label: Tecnologias   | html, css, javascript           |
-| :rocket: URL          | scrollwithanimation.netlify.app |
+| :rocket: URL          | https://scrollwithanimation.netlify.app |
 
 This application consist in a content scroll animation. While the user scrolling the page, the new content starts to appear on the screen with an animation.
 
